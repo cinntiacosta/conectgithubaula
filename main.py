@@ -37,7 +37,7 @@ cursor.execute ('SELECT * FROM alunos')
 alunos = cursor.fetchall ()
 print(alunos)
 
-
+#Fim do código
 
 
 
